@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Synjoestar
 - 👀 I’m interested in : FM2024
-- 🌱 I’m currently learning : JS
-- 💞️ I’m looking to collaborate on : Server Administrator 
-- 📫 How to reach me : via IG
+- 🌱 I’m currently learning : Machine Learning
+- 💞️ I’m looking to collaborate on : Project 
+- 📫 How to reach me : follow my instagram
 - 😄 Pronouns : -
 - ⚡ Fun fact : I use local products
 
