@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=25&pause=1000&width=435&lines=Hi%2C+I'm+Surya)](https://git.io/typing-svg)<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=25&pause=1000&color=3FF756&width=435&lines=Hi%2C+I'm+Surya)](https://git.io/typing-svg)
 
 I’m a passionate Machine Learning. I love exploring new technologies and continuously expanding my skill set. Let's create something amazing together!
 
