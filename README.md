@@ -1,4 +1,5 @@
-<img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="27" /> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=25&pause=1000&width=435&lines=Hi%2C+I'm+Surya)](https://git.io/typing-svg)<br>
+<img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="27" />[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=25&pause=1000&width=435&lines=Hi%2C+I'm+Surya)](https://git.io/typing-svg)<br>
+
 I’m a passionate Machine Learning. I love exploring new technologies and continuously expanding my skill set. Let's create something amazing together!
 
 <p>
