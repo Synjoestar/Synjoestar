@@ -31,3 +31,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=synjoestar&show_icons=true&locale=en" alt="synjoestar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=synjoestar&" alt="synjoestar" /></p>
+https://pixel-profile.vercel.app/api/github-stats?username=<username>&theme=journey&dithering=true&hide=avatar
