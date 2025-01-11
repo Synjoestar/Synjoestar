@@ -2,7 +2,7 @@
   <img src="https://github.com/Synjoestar/Synjoestar/blob/main/readme.gif" alt="pixelgif" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=25&pause=1000&color=3FF756&width=435&lines=Hi%2C+I'm+Surya)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&size=25&pause=1000&color=4EF75D&width=435&lines=%F0%9F%91%8BHi%2C+I'm+Surya+%F0%9F%90%A2)](https://git.io/typing-svg)
 
 I’m a passionate Machine Learning. I love exploring new technologies and continuously expanding my skill set. Let's create something amazing together!<br>
 
