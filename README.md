@@ -21,16 +21,9 @@ I’m a passionate Machine Learning. I love exploring new technologies and conti
 
 # 📊 Stats
 <div align="center">
-  <table>
-    <tr>
-      <th><img src="https://listemoji.com/img/emoji/using/large-blue-circle-1f535-microsoft.png" width="9" height="9"/> GitHub Stats</th>
-      <th><img src="https://listemoji.com/img/emoji/using/large-blue-circle-1f535-microsoft.png" width="9" height="9"/> Most Used Languages</th>
-    </tr>
-    <tr>
-     <td><img height="150" src=""/></td>
-      <td><img height="150" src=""/></td>
-    </tr>
-  </table>
+  <img src= "![Synjoestar's Stats](https://github-readme-stats.vercel.app/api?username=Synjoestar&theme=blue-green&show_icons=true&hide_border=true&count_private=true)" /><br>
+  <img src= "![Synjoestar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Synjoestar&theme=blue-green&hide_border=true)" /><br>
+  <img src= "![Synjoestar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Synjoestar&theme=blue-green&show_icons=true&hide_border=true&layout=compact)" /><br>
 </div>
 
 
