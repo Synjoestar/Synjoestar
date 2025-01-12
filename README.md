@@ -27,7 +27,7 @@ I’m a passionate Machine Learning. I love exploring new technologies and conti
       <th><img src="https://listemoji.com/img/emoji/using/large-blue-circle-1f535-microsoft.png" width="9" height="9"/> Most Used Languages</th>
     </tr>
     <tr>
-      <td><img height="150" src="[https://github-readme-stats.vercel.app/api?username=Synjoestar&show_icons=true&theme=monokai&rank_icon=github&icon_color=0366d6&hide_border=true&hide_title=true&ring_color=0366d6&bg_color=0D1117](https://github-readme-stats.vercel.app/api/top-langs/?username=Synjoestar&theme=gotham&show_icons=true&hide_border=true&layout=compact)"/></td>
+      <td><img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Synjoestar&theme=gotham&show_icons=true&hide_border=true&layout=compact"/></td>
       <td><img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Synjoestar&layout=compact&theme=monokai&count_private=true&hide_border=true&hide_title=true&bg_color=0D1117"/></td>
     </tr>
   </table>
