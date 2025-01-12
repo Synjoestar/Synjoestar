@@ -25,9 +25,6 @@ I’m a passionate Machine Learning enthusiast. I love exploring new technologie
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=Synjoestar&theme=blue-green&show_icons=true&hide_border=false&count_private=true" alt="Synjoestar's Stats" height="150" />
     </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Synjoestar&theme=blue-green&hide_border=false" alt="Synjoestar's Streak" height="150" />
-    </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
