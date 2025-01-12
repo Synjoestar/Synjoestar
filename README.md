@@ -20,14 +20,12 @@ I’m a passionate Machine Learning enthusiast. I love exploring new technologie
 </div>
 
 # 📊 Stats
-<table align="center">
+<table align="center" style="border: 1px solid black; border-collapse: collapse;">
   <tr>
-    <td>
+    <td style="border: 1px solid black;">
       <img src="https://github-readme-stats.vercel.app/api?username=Synjoestar&theme=blue-green&show_icons=true&hide_border=false&count_private=true" alt="Synjoestar's Stats" height="150" />
     </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
+    <td style="border: 1px solid black;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Synjoestar&theme=blue-green&show_icons=true&hide_border=false&layout=compact" alt="Synjoestar's Top Languages" height="150" />
     </td>
   </tr>
