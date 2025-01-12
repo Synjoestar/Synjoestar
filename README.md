@@ -22,11 +22,11 @@ I’m a passionate Machine Learning enthusiast. I love exploring new technologie
 # 📊 Stats
 <div align="center">
   
-  ![Synjoestar's Stats](https://github-readme-stats.vercel.app/api?username=Synjoestar&theme=blue-green&show_icons=true&hide_border=true&count_private=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=Synjoestar&theme=blue-green&show_icons=true&hide_border=true&count_private=true&card_width=450" alt="Synjoestar's Stats" />
   
-  ![Synjoestar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Synjoestar&theme=blue-green&hide_border=true)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Synjoestar&theme=blue-green&hide_border=true&card_width=450" alt="Synjoestar's Streak" />
   
-  ![Synjoestar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Synjoestar&theme=blue-green&show_icons=true&hide_border=true&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Synjoestar&theme=blue-green&show_icons=true&hide_border=true&layout=compact&card_width=450" alt="Synjoestar's Top Languages" />
   
 </div>
 
