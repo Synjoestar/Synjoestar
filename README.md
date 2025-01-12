@@ -24,8 +24,6 @@ I’m a passionate Machine Learning enthusiast. I love exploring new technologie
   
   <img src="https://github-readme-stats.vercel.app/api?username=Synjoestar&theme=blue-green&show_icons=true&hide_border=true&count_private=true&card_width=450" alt="Synjoestar's Stats" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Synjoestar&theme=blue-green&hide_border=true&card_width=450" alt="Synjoestar's Streak" />
-  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Synjoestar&theme=blue-green&show_icons=true&hide_border=true&layout=compact&card_width=450" alt="Synjoestar's Top Languages" />
   
 </div>
