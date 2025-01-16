@@ -6,10 +6,6 @@
 
 I’m a passionate Machine Learning enthusiast. I love exploring new technologies and continuously expanding my skill set. Let's create something amazing together!<br>
 
-<p align="center">
-  <img src="https://github.com/Synjoestar/Synjoestar/blob/main/grid-snake.svg" alt="snake" />
-</p>
-
 # 💻 Tech Stack
 <div align="center">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
@@ -42,4 +38,8 @@ I’m a passionate Machine Learning enthusiast. I love exploring new technologie
   <a href="mailto:suryanugroho042@example.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email">
   </a>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Synjoestar/Synjoestar/blob/main/grid-snake.svg" alt="snake" />
 </p>
