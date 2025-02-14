@@ -15,10 +15,17 @@ I’m a passionate Machine Learning enthusiast. I love exploring new technologie
   <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=Synjoestar&theme=blue-green&show_icons=true&hide_border=false&count_private=true&cache_seconds=1800" alt="Synjoestar's Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Synjoestar&theme=blue-green&show_icons=true&hide_border=false&layout=compact&cache_seconds=1800" alt="Synjoestar's Top Languages" height="150" />
+# 📊 Stats
+<table align="center" style="border: 1px solid black; border-collapse: collapse;">
+  <tr>
+    <td style="border: 1px solid black;">
+      <img src="https://github-readme-stats.vercel.app/api?username=Synjoestar&theme=blue-green&show_icons=true&hide_border=false&count_private=true" alt="Synjoestar's Stats" height="150" />
+    </td>
+    <td style="border: 1px solid black;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Synjoestar&theme=blue-green&show_icons=true&hide_border=false&layout=compact" alt="Synjoestar's Top Languages" height="150" />
+    </td>
+  </tr>
+</table>
 
 
 ## 🌐 Connect with Me
