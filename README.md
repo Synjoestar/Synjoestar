@@ -33,7 +33,7 @@ I’m a passionate Machine Learning enthusiast. I love exploring new technologie
   <a href="https://www.instagram.com/utchup?igsh=YzljYTk1ODg3Zg==" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="[https://www.linkedin.com/in/surya-nugroho-38aa27336?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/surya-yusuf-nugroho-38aa27336/)" target="_blank">
+  <a href="https://www.linkedin.com/in/surya-yusuf-nugroho-38aa27336/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%2300A0DC.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:suryanugroho042@gmail.com">
