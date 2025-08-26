@@ -29,17 +29,9 @@ I’m a passionate Machine Learning enthusiast. I love exploring new technologie
 
 
 ## 🌐 Connect with Me
-<p align="center">
-  <a href="https://www.instagram.com/utchup?igsh=YzljYTk1ODg3Zg==" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://www.linkedin.com/in/surya-yusuf-nugroho-38aa27336/" target="_blank">
+  <a href="https://www.linkedin.com/in/surya-yusuf-nugroho/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%2300A0DC.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:suryanugroho042@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email">
-  </a>
-</p>
 
 <p align="center">
   <img src="https://github.com/Synjoestar/Synjoestar/blob/main/grid-snake.svg" alt="snake" />
