@@ -27,9 +27,11 @@ I’m a passionate Machine Learning enthusiast. I love exploring new technologie
 
 
 ## 🌐 Connect with Me
+<div align="center">
   <a href="https://www.linkedin.com/in/surya-yusuf-nugroho/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%2300A0DC.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
   </a>
+</div>
 
 <p align="center">
   <img src="https://github.com/Synjoestar/Synjoestar/blob/main/grid-snake.svg" alt="snake" />
